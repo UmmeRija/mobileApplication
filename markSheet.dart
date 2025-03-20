@@ -1,5 +1,6 @@
 void main(){
   const total = 500;
+  print(total);
   const math = 90;
   const english = 85;
   const physics = 96;
@@ -9,7 +10,7 @@ void main(){
   const obtainedMarks = math + english + physics + chemistry + urdu;
   print(obtainedMarks);
 
-  const result = (obtainedMarks/total)*100;
+  const result = (obtainedMarks / total)*100;
   print(result);
 
 }
