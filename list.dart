@@ -6,4 +6,5 @@ void main(){
   name[3]="Faiza";
   print(name);
 
+
 }
