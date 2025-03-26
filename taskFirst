@@ -1,0 +1,15 @@
+void main (){
+    string"name" s = {name: "Rija" ,"catagory":"Pass"
+       "name" :"hala" ,"catagory":"Pass"
+       "name" :"huda" ,"catagory":"Pass" 
+       "name" :"fahad" ,"catagory":"Pass"
+       "name" :"ali" ,"catagory":"Pass"
+       "name" :"ayeza" ,"catagory":"Pass"
+       "name" :"ayaz" ,"catagory":"Pass" 
+       "name" :"fiza" ,"catagory":"Pass" 
+       "name" :"saba" ,"catagory":"Pass"
+       "name" :"nida" ,"catagory":"Pass" 
+       "name" :"ubaid" ,"catagory":"Pass" 
+       "name" :"asad" ,"catagory":"Pass"
+       "name" :"awais"}
+}
